@@ -37,7 +37,7 @@ This project focuses on predicting whether an asteroid is potentially hazardous 
 - Confusion Matrix
   
 **6. Results**
-![Confusion Matrix](Asteroid_Thread_Detection/results.png)
+![Model Comparisons](Asteroid_Threat_Detection/results.png)
 
 Random Forest (After SMOTE) is the best model with balanced accuracy and precision/recall.
 
